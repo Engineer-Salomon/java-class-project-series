@@ -14,9 +14,6 @@ public class j3 {
                 System.out.print(" ");
             for (int n = 0;n<=10-a;n++)
                 System.out.print(" *");
-                
-            
-
         }
     }
     
